@@ -32,6 +32,7 @@
     <img src="https://streak-stats.demolab.com/?user=pante31&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </p>
+
 ---
 
 ### 🚀 Featured Projects
