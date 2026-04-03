@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,c,html,css,sql,git,docker,linux&perline=8" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=python,js,c,html,css,git,docker,linux&perline=8" alt="Tech Stack Icons" />
   </a>
 </p>
 
