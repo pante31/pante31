@@ -16,32 +16,15 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/pante31">
-    <img src="https://github-readme-stats.vercel.app/api?username=pante31&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/pante31">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pante31&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pante31">
-    <img src="https://streak-stats.demolab.com/?user=pante31&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 Featured Projects
 
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **LLM Creativity** | Accurately measuring creativity and understanding how LLMs relate to such a complex construct. | Python | [Website](https://creativity-evaluation.streamlit.app) <br> [Source Code](https://github.com/pante31/LLM_Creativity) |
-| **Predictive Maintenance** | Predictive analytics and machine learning pipeline for forecasting equipment failure, reducing downtime, and optimizing maintenance schedules for industrial assets. | Python | [Source Code](https://github.com/pante31/ENI_Predictive_Maintenance) (Confidential) |
-| **RL Optimization** | Trained an A2C reinforcement learning model to solve the Overcooked optimization game. | Python | [Source Code](https://github.com/pante31/AAS_Overcooked) |
+| **LLM Creativity** | Accurately measuring creativity and understanding how LLMs relate to such a complex construct. | *Python* | [Website](https://creativity-evaluation.streamlit.app) <br> [Source Code](https://github.com/pante31/LLM_Creativity) |
+| **Predictive Maintenance** | Predictive analytics and machine learning pipeline for forecasting equipment failure, reducing downtime, and optimizing maintenance schedules for industrial assets. | *Python* | [Source Code](https://github.com/pante31/ENI_Predictive_Maintenance) (Confidential) |
+| **RL Optimization** | Trained an Advantage Actor Critic (A2C) reinforcement learning model to solve the Overcooked optimization game. | *Python* | [Source Code](https://github.com/pante31/AAS_Overcooked) |
 
 ---
 <p align="center"><i>Thanks for visiting my profile! Let's connect and build something awesome together.</i></p>
